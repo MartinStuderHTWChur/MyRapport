@@ -8,6 +8,10 @@ Das Projekt MyRapport wurde mit dem PHP Framework Symfony erstellt.
 Webseite: https://symfony.com
 
 ## Installation Symfony
+
+### Vorbedingungen
+<Beschreiben Sie kurz, welche Vorbedingungen sie haben, z.B. bezüglich Betriebssystem oder Datenbank>
+
 ### Pakete installieren
 Zuerst müssen die nötigen Pakete installiert werden:
 
